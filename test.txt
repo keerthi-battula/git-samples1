@@ -1,2 +1,3 @@
 new file content
 add feature1
+add feature2
